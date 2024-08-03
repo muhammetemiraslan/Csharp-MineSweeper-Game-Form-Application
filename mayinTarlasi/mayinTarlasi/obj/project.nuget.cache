@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LjTqrn7syj0=",
+  "dgSpecHash": "Wjkz/096GYE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammet Emir ASLAN\\Desktop\\2024DersteYapılanProjeler\\mayinTarlasi\\mayinTarlasi\\mayinTarlasi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Muhammet Emir ASLAN\\Documents\\GitHub\\Csharp-MineSweeper-Game-Form-Application\\mayinTarlasi\\mayinTarlasi\\mayinTarlasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammet Emir ASLAN\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Muhammet Emir ASLAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Muhammet Emir ASLAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Muhammet Emir ASLAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }

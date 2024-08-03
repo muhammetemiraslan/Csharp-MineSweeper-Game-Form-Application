@@ -1,5 +1,7 @@
 # Mayın Tarlası Oyunu
 
+![Mayın Tarlası Oyunu Ekran Görüntüsü](Minesweeper.png)
+
 Bu proje, klasik Mayın Tarlası oyununu temel alan basit bir oyundur. Oyuncunun, mayınlara basmadan tüm güvenli hücreleri açması gerekmektedir.
 
 ## Özellikler
